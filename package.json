@@ -5,9 +5,10 @@
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro check && astro build && tinacms build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "tinacms": "tinacms"
   },
   "dependencies": {
     "@astrojs/check": "^0.8.3",
