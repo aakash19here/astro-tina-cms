@@ -1,7 +1,8 @@
 ---
 title: New Post Added Via Admin
-pubDate: 28-7-2024
-description: 'Lets see if that works '
+pubDate: Jul 28 2024
+description: Lets see if that works
+heroImage: /blog-placeholder-2.jpg
 ---
 
 Please work dude
