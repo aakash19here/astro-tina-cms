@@ -7,9 +7,7 @@ description: Lorem ipsum dolor sit amet
 
 **Wowwwwwwww**
 
-> Will this work ?\
-> \
->
+> Will this work ?
 
 ```javascript
 const something = "I hope this keeps up with the changes"
