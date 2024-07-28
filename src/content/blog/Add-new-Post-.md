@@ -5,6 +5,12 @@ pubDate: Jul 08 2022
 description: Lorem ipsum dolor sit amet
 ---
 
-Wowwwwwwww
+**Wowwwwwwww**
 
-> Will this work ? 
+> Will this work ?\
+> \
+>
+
+```javascript
+const something = "I hope this keeps up with the changes"
+```
