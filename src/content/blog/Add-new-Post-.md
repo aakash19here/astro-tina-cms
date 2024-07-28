@@ -1,8 +1,8 @@
 ---
 title: Add new Post
-pubDate: Jul 08 2022
 heroImage: /blog-placeholder-3.jpg
+pubDate: Jul 08 2022
 description: Lorem ipsum dolor sit amet
 ---
 
-Damn this is Awesome
+**This is very awesome man **
