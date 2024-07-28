@@ -1,12 +1,5 @@
 import { defineConfig } from "tinacms";
 
-// Your hosting provider likely exposes this as an environment variable
-const branch =
-  process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
-  process.env.HEAD ||
-  "main";
-
 export default defineConfig({
   branch: "main",
   // Get this from tina.io
@@ -37,6 +30,12 @@ export default defineConfig({
             name: "title",
             label: "Title",
             isTitle: true,
+            required: true,
+          },
+          {
+            type: "image",
+            name: "heroImage",
+            label: "Hero image",
             required: true,
           },
           {
